@@ -1,4 +1,4 @@
-# flutter_bmi_calc_learning
+# Flutter BMI Calculator
 
 A flutter application for learning.
 
