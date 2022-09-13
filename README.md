@@ -1,16 +1,11 @@
 # flutter_bmi_calc_learning
 
-Flutter project for learning - BMI Calculator
+A flutter application for learning.
 
-## Getting Started
+This repository was solely built for learning purposes.
 
-This project is a starting point for a Flutter application.
+This code has been written with the help of [Santos Enoque](https://www.youtube.com/c/SantosEnoque)'s video: (Flutter BMI Calculator Beginner's Project)[https://www.youtube.com/watch?v=oX9PQI0D-v4]
 
-A few resources to get you started if this is your first Flutter project:
+##  Licence
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The MIT Licence - Check LICENCE.md for more information.
